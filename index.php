@@ -18,7 +18,7 @@
 	<div id="answers">
 	<ul>
 	<h3>Unit 1 Quiz for Adobe Illustrator</h3>
-  <p> This quiz will cover chapters 1-3 in your Adobe Illustrator textbook.</p>
+  <p> This quiz will cover chapters 1-3 in your Adobe Illustrator 2019 textbook.</p>
   
 </ul>
 
