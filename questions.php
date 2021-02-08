@@ -61,7 +61,7 @@ $questions = array(
     ),
 	
 	   5 => array(
-        'question' => 'What file does NOT support Transparency',
+        'question' => 'What file does NOT support transparency',
         'answers' => array(
             'a' => 'TIFF',
             'b' => 'PNG',

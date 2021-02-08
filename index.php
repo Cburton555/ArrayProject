@@ -28,6 +28,7 @@
   <li>No Textbook</li>
   <li>No Talking</li>
   <li>No Eating</li>
+  <li>No Fun</li>
   <h2 class="redmarker2">Anyone who needs to be reminded will be dropped from the class!</h1>
 </ul>
 		 <a href="quiz.php" class="btn btn-default">Take Quiz</a>
