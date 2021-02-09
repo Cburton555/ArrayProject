@@ -14,11 +14,11 @@
         <?php
 $questions = array(
     1 => array(
-        'question' => 'Which color mode does a computer monitor use?',
+        'question' => 'Two types of gradients are?',
         'answers' => array(
-            'a' => 'RGB',
-            'b' => 'CMYX',
-            'c' => 'LOL',
+            'a' => 'Radial and Linear',
+            'b' => 'Angle and reflected',
+            'c' => 'Square and Dimondr',
             'd' => 'I give up',
         ),
         'correct' => 'a',
